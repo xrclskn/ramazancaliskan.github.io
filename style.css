@@ -1,0 +1,159 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar{
+    width: 100%;
+    height: 3rem;
+    background-color:aliceblue;
+}
+
+.hello{
+    color: #263238;
+    font-size: 2rem;
+    letter-spacing: 2px;
+    font-family: Arial;
+    margin-left: 2rem;
+    line-height: 3rem;
+    margin-right: 2rem;
+}
+
+.menubutton{
+    text-decoration: none;
+    color: #263238;
+    float: right;
+    padding-right: 1.5rem;
+}
+
+.menubutton:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+    color: #37474f;
+}
+
+.body{
+    text-align: center;
+    margin-top: 5rem;
+    display: inline-block;
+    margin-left: 20%;
+}
+
+.body p{
+    letter-spacing: 1px;
+}
+
+.foto{
+    display: inline-block;
+    margin: 0%;
+    padding: 0%;
+}
+
+.foto img{
+    width: 25rem;
+    height: 25rem;
+    border-radius: 50%;
+}
+
+.infobox{
+    float: right;
+    width: 30rem;
+    height: auto;
+    margin-right: 15rem;
+    font-family: Arial;
+    text-align: justify;
+    padding: 1rem;
+    font-weight: 100;
+}
+
+.baslik{
+    letter-spacing: 3px;
+    font-size: 2.2rem;
+    line-height: 2rem;
+    text-align: left;
+}
+
+.infobox a{
+    text-align: center;
+    width: 8.5rem;
+    height: 8.5rem;
+    display: inline-block;
+    border-radius: 50%;
+    line-height: 8rem;
+    text-decoration: none;
+    color: #263238;
+    margin: 5px;
+    border: 1px solid black;
+}
+
+.iletisim{
+    background-color: orange;
+}
+
+.iletisim:hover{
+    background-color: white;
+    transition: 0.5s;
+}
+
+.a{
+    background-color: #3949ab;
+}
+
+.a:hover{
+    background-color: white;
+    transition: 0.5s;
+}
+
+
+.b{
+    background-color:#00897b;
+}
+
+.b:hover{
+    background-color: white;
+    transition: 0.5s;
+}
+
+.footer{
+    text-align: center;
+}
+
+.email{
+    display: inline-block;
+    margin-right: 3rem
+}
+
+.email p{
+    font-size: 2rem;
+    font-family: Arial;
+}
+
+.email a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #263238;
+}
+
+.follow{
+    display: inline-block;
+    margin-left: 3rem;
+}
+
+.follow p{
+    font-size: 2rem;
+    font-family: arial;
+}
+
+.follow a{
+    text-decoration: none;
+    color: #263238;
+    font-size: 1.5rem;
+}
+
+footer{
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+    line-height: 3rem;
+    margin-top: 3rem;
+}
